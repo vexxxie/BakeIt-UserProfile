@@ -1,0 +1,2 @@
+rootProject.name = "Bake IT V01"
+include ':app'
